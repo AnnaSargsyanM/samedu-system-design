@@ -78,13 +78,13 @@ samedu-system-design/
 │   └── exported diagram images
 └── README.md
 
-## Documentation
+**## Documentation**
 
 The full systems analysis and design document includes the platform concept, requirements, user stories, use cases, system models, UML diagrams, interface designs, and FAQ.
 
 See: `documentation/SAMEdu.pdf`
 
-## Tools & Concepts
+**## Tools & Concepts**
 
 - Systems Analysis & Design
 - UML
@@ -100,11 +100,11 @@ See: `documentation/SAMEdu.pdf`
 - UI Design
 - diagrams.net / Draw.io
 
-## Project Type
+**## Project Type**
 
 Academic systems analysis and design project developed at Webster University.
 
-## Author
+**## Author**
 
 **Anna Sargsyan**  
 B.S. Computer Science, Webster University
