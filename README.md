@@ -77,8 +77,9 @@ samedu-system-design/
 ├── images/
 │   └── exported diagram images
 └── README.md
+```
 
-**## Documentation**
+## Documentation
 
 The full systems analysis and design document includes the platform concept, requirements, user stories, use cases, system models, UML diagrams, interface designs, and FAQ.
 
