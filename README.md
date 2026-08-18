@@ -85,7 +85,7 @@ The full systems analysis and design document includes the platform concept, req
 
 See: `documentation/SAMEdu.pdf`
 
-**## Tools & Concepts**
+## Tools & Concepts
 
 - Systems Analysis & Design
 - UML
@@ -101,11 +101,11 @@ See: `documentation/SAMEdu.pdf`
 - UI Design
 - diagrams.net / Draw.io
 
-**## Project Type**
+## Project Type
 
 Academic systems analysis and design project developed at Webster University.
 
-**## Author**
+## Author
 
-**Anna Sargsyan**  
+Anna Sargsyan  
 B.S. Computer Science, Webster University
